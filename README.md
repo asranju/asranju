@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Ranjith
 
-<!--
-**asranju/asranju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Mobile & Web Developer  
+📱 Flutter | Android (Java/Kotlin) | React | Next.js | Node.js  
+💳 API Integration | Payment Gateway | Admin Dashboards  
+💼 5+ Years Experience in Building Scalable Production Apps  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Mobile: Flutter, Android (Java/Kotlin)
+- Frontend: React.js, Next.js
+- Backend: Node.js, REST APIs, Firebase
+- Database: SQLite, Room DB, Drift, Firebase
+- Architecture: MVVM, MVC, Clean Architecture
+- Payments: Razorpay, Stripe Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I Do
+- Mobile App Development (Flutter & Android)
+- Full Stack Web Applications
+- API Integration & Backend Development
+- Payment Gateway Integration
+- Admin Dashboard (React / Next.js)
+- Bug Fixing & Performance Optimization
+
+## 📫 Contact Me
+- LinkedIn: (Add your LinkedIn link)
+- Portfolio: (Add your portfolio link)
+- Email: (Your email)
+
+💬 Open to Freelance & Remote Opportunities
