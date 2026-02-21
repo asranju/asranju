@@ -70,7 +70,7 @@ I develop complete solutions including Mobile Apps, Web Dashboards, Backend APIs
 ## 📫 Contact Me
 - 📧 Email: asranju56@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/ranjith-a-s-2715ba153  
-- 🌐 Portfolio: https://ranjith-portfolio-ten.vercel.app/  
+- 🌐 Portfolio: https://ranjith-portfolio-one.vercel.app/
 
 ---
 
