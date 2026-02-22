@@ -60,7 +60,7 @@ I develop complete solutions including Mobile Apps, Web Dashboards, Backend APIs
 ---
 
 ## 📌 Featured Projects
-🔗 Portfolio: https://ranjith-portfolio-ten.vercel.app/  
+🔗 Portfolio: https://ranjith-portfolio-one.vercel.app/  
 💼 LinkedIn: https://www.linkedin.com/in/ranjith-a-s-2715ba153  
 
 (You can pin your best projects here like Flutter apps, dashboards, etc.)
